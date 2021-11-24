@@ -2,7 +2,7 @@ import React from 'react'
 import styled from 'styled-components';
 import resume from '../me/Snapchat-116333502.jpg';
 // src\me\Snapchat-116333502.jpg
-import PrimaryButton from './PrimaryButton';
+// import PrimaryButton from './PrimaryButton';
 
 function ImageSection() {
     return (
