@@ -1,10 +1,11 @@
 import React from 'react'
 import styled from 'styled-components';
 
-function ReviewItem({text}) {
+function ReviewItem({text , textw}) {
     return (
         <RevivewItemStyled>
             <p>{text}</p>
+            <p className="pro">{textw}</p>
         </RevivewItemStyled>
     )
 }
@@ -28,6 +29,10 @@ const RevivewItemStyled = styled.div`
         border-color: var(--background-dark-grey) transparent transparent var(--background-dark-grey);
     }
     p{
+        padding: 1rem 0;
+    }
+    .pro{
+        color: var(--primary-color);
         padding: 1rem 0;
     }
 `;
