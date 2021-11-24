@@ -5,7 +5,7 @@ import Title from '../Components/Title';
 import ServiceCard from '../Components/ServiceCard';
 import design from '../img/design.svg';
 import intelligence from '../img/intelligence.svg';
-import gamedev from '../img/game-dev.svg';
+// import gamedev from '../img/game-dev.svg';
 
 function ServicesSection() {
     return (
@@ -16,20 +16,15 @@ function ServicesSection() {
                     <ServiceCard 
                         image={design} 
                         title={'Web Design'} 
-                        paragraph={'Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem tenetur ratione quod.'}
+                        paragraph={'Develop dynamic PWA Web applications that are responsives to small to medium business'}
                     />
                     <div className="mid-card">
                         <ServiceCard 
                             image={intelligence} 
-                            title={'Artificial Intelligence'} 
-                            paragraph={'Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem tenetur ratione quod.'}
+                            title={'Mobile Application'} 
+                            paragraph={'Build smartphone applications to help businesses communicate and engage with consumers in a streamlined manner.'}
                         />
                     </div>
-                    <ServiceCard 
-                        image={gamedev} 
-                        title={'Game Development'} 
-                        paragraph={'Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem tenetur ratione quod.'}
-                    />
                 </div>
             </ServicesSectionStyled>
         </InnerLayout>

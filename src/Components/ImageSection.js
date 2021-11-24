@@ -36,7 +36,7 @@ My main focus these days is building accessible, inclusive products and cross pl
                         <p>: Freelance</p>
                     </div>
                 </div>
-                <PrimaryButton title={'Download Cv'} />
+
             </div>
         </ImageSectionStyled>
     )
