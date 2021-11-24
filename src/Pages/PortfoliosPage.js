@@ -19,7 +19,7 @@ const allButtons = ['All', ...new Set(data3.map(item => item.category))]
 
 function PortfoliosPage() {
     const [menuItem, setMenuItems] = useState(data3);
-    const [button, setButtons] = useState(allButtons);
+    // const [button, setButtons] = useState(allButtons);
 
     const filter = (button) => {
 
@@ -37,7 +37,7 @@ function PortfoliosPage() {
             <Title title={'Portfolios'} span={'portfolios'} />
             <InnerLayout>
 
-                <Button filter={filter} button={button} />
+                <Button filter={filter} button={allButtons} />
                 <Menu menuItem={menuItem} />
             </InnerLayout>
         </MainLayout>
