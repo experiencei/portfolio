@@ -584,27 +584,6 @@ const portfolios = {
         text: 'using the Html Canvas to create a pong game with Computer AI'
     },]
  } ,
- WEBDESIGN : {
-    WEBDESIGN : [
-        {id: 35,
-            category: 'WEB DESIGN',
-            image: css1,
-            link1: 'https://www.github.com/experiencei/animated-contd',
-            link2: 'https://laundrish1.netlify.app/',
-            title: 'Laundry Website',
-            text: 'Laundrish web with Aos and Tailwind'
-        },
-         {id: 36,
-            category: 'WEB DESIGN',
-            image: css1,
-            link1: 'https://www.github.com/experiencei/mark',
-            link2: 'https://mageespharmacy.netlify.app',
-            title: 'Pharmacy Website',
-            text: 'magees website with Aos and Tailwind'
-        },
-         
-    ]
- } ,
  WEBAPP :{
     WEBAPP :[
         {id: 37,
@@ -710,6 +689,22 @@ const portfolios = {
             link2: ' https://experiencei.github.io/XmasLandingPage/',
             title: 'XmasLandingPage Website',
             text: 'Amazing Project with CSS & JS'
+        }, 
+        {id: 35,
+            category: 'WEB APP',
+            image: css1,
+            link1: 'https://www.github.com/experiencei/animated-contd',
+            link2: 'https://laundrish1.netlify.app/',
+            title: 'Laundry Website',
+            text: 'Laundrish web with Aos and Tailwind'
+        },
+         {id: 36,
+            category: 'WEB APP',
+            image: css1,
+            link1: 'https://www.github.com/experiencei/mark',
+            link2: 'https://mageespharmacy.netlify.app',
+            title: 'Pharmacy Website',
+            text: 'magees website with Aos and Tailwind'
         },
     ]
  } ,
