@@ -176,14 +176,6 @@ const portfolios = {
            title: 'Google Clone',
            text: 'using Next Js, SSA & Google Api '
        },
-        {id: 66,
-           category: 'NEXT',
-           image: "https://cdn.dribbble.com/users/5461590/screenshots/15800164/media/7352c98ae94aac294437fb9705771eb1.png?compress=1&resize=1200x900",
-           link1: 'https://www.github.com/experiencei/GoogleDocs',
-           link2: 'https://google-experience.vercel.app/',
-           title: 'GoogleDocs Clone',
-           text: 'using Next Js, SSA & Draft.js(WYSIWYG) & Firebase Adapter. '
-       },
         {id: 67,
            category: 'NEXT',
            image: "https://cdn.dribbble.com/users/2301877/screenshots/6799225/airbnb_dribble_1.jpg",
