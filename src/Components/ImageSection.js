@@ -29,7 +29,7 @@ My main focus these days is building accessible, inclusive products and cross pl
                     </div>
                     <div className="info">
                         <p>: Ayeloja Ibrahim</p>
-                        <p>: 21</p>
+                        <p>: 22</p>
                         <p>: Nigerian </p>
                         <p>: English </p>
                         <p>: Lagos State, Nigeria</p>
