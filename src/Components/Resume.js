@@ -49,7 +49,7 @@ function Resume() {
                     />
                     <ResumeItem 
                         year={'2019 - Present'} 
-                        title={''}
+                        title={'Acquiring A Degree'}
                         subTitle={'Obafemi Awolowo University, Ile-Ife'}
                         text={'Studying & acquiring an underlying principle behind,Technological knowledge,Interpersonal skills, Organizational skills ,Complex problem-solving skills,Innovative thinking. '} 
                     />
