@@ -123,14 +123,6 @@ const portfolios = {
            title: 'Gmail Clone',
            text: 'using Redux react-hook-form material ui'
        },
-        {id: 601,
-           category: 'REACT',
-           image: "https://cdn.dribbble.com/users/6569/screenshots/14896756/media/83dbc710f449983d91745f4a680fc26a.png",
-           link1: 'https://www.github.com/experiencei/Slackclone',
-           link2: 'https://slackclone.web.app/',
-           title: 'Slack Clone',
-           text: '(Not fully Responsive on Mobile).using Redux react-hook-form material ui'
-       },
         {id: 62,
            category: 'REACT',
            image: "https://cdn.dribbble.com/users/411475/screenshots/13953200/media/d44814135fc1ecc468614337e71ab14d.jpg?compress=1&resize=800x600",
@@ -151,14 +143,6 @@ const portfolios = {
            link2: 'https://whatsapp-evwdcuxyb-experiencei.vercel.app/',
            title: 'Whatsapp Clone',
            text: ' using firebase , Next Js for whatsapp real time chatting With TimeAgo (Not Mobile Responsive)'
-       },
-       {id: 63,
-           category: 'NEXT',
-           image: "https://cdn.dribbble.com/users/411475/screenshots/14278604/media/7d3be05acd757afe4c6a43d0701637e4.jpg",
-           link1: 'https://www.github.com/experiencei/FacebookClone',
-           link2: 'https://facebook-clone-orpin-five.vercel.app/',
-           title: 'Facebook Clone',
-           text: 'using Next Js, firebase storage ,Tailwind CSS, database ,Material ui , camera funtionality'
        },
         {id: 64,
            category: 'NEXT',
