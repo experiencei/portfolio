@@ -64,6 +64,148 @@ import adventure from "../me/Screenshot_20211123-203928.png"
 import edu from "../me/Screenshot_20211123-204025.png"
 
 const portfolios = {
+    REACT : {
+        REACT :[
+           {id: 47,
+               category: 'REACT',
+               image: "https://cdn.dribbble.com/users/2253180/screenshots/16362806/media/a5a25fd03968f8deb4a802e377c6e491.jpg?compress=1&resize=1200x900",
+               link1: 'https://www.github.com/experiencei/Crown-Clothing-App',
+               link2: 'https://crwn-live.herokuapp.com',
+               title: 'Crown Clothing Eccomerce',
+               text: 'Fully Function Ecommerce Webapp with Stripe Ingeration, Redux and Firebase.'
+           },
+            
+           {id: 49,
+              category: 'REACT',
+              image: "https://cdn.dribbble.com/users/916023/screenshots/13141201/media/3a30175edd08cfa90d8633b98b7dee10.png?compress=1&resize=800x600",
+              link1: 'https://www.github.com/experiencei/MonsterApp',
+              link2: 'https://experiencei.github.io/MonsterApp/',
+              title: 'Monster Rolodex App',
+              text: 'Using Api to get Monster data and Filtering through them by Search. & Styled Component.'
+          },
+           {id: 50,
+              category: 'REACT',
+              image: "https://cdn.dribbble.com/users/946315/screenshots/15007668/media/ff43c790553fb21e76e860b9f798ff62.png?compress=1&resize=1200x900",
+              link1: 'https://www.github.com/experiencei/AmazonClone',
+              link2: 'https://db-54246.web.app',
+              title: 'Amazon Clone',
+              text: 'Fully Function of Amazon with Redux , Firebsae , Stripe Integration for Payment'
+          },
+           {id: 53,
+              category: 'REACT',
+              image: "https://cdn.dribbble.com/users/3506230/screenshots/16626652/media/2d756a0f3075734a3e35c8f1204f9bed.png?compress=1&resize=1200x900",
+              link1: 'https://www.github.com/experiencei/netflixClone',
+              link2: 'https://netflixclone-f3d27.web.app',
+              title: 'Netflix Clone',
+              text: 'Using TMDB API for Netflix Clone with Trailer Functionality'
+          },
+           {id: 54,
+              category: 'REACT',
+              image: instagram,
+              link1: 'https://www.github.com/experiencei/InstagramClone',
+              link2: 'https://instagramclone-1b500.web.app',
+              title: 'Instagram Clone',
+              text: 'using firebase , insta-react-embed to create an instagram clone'
+          },
+        {id: 60,
+           category: 'REACT',
+           image: "https://cdn.dribbble.com/users/226368/screenshots/15468548/media/68364675d5354c640f317000bcf34935.jpg?compress=1&resize=1200x900",
+           link1: 'https://www.github.com/experiencei/Linkedin',
+           link2: 'https://ayelojahighbee01.web.app/',
+           title: 'LinkedIn Clone',
+           text: 'cloning of LinkedIn with React, and Firebase hooks and react Flip-Move'
+       },
+        {id: 61,
+           category: 'REACT',
+           image: "https://cdn.dribbble.com/users/4506193/screenshots/8764750/media/8192532a3768306a7718669705afcea4.png?compress=1&resize=1200x900",
+           link1: 'https://www.github.com/experiencei/GmailClone',
+           link2: 'https://clone-7d120.web.app/',
+           title: 'Gmail Clone',
+           text: 'using Redux react-hook-form material ui'
+       },
+        {id: 601,
+           category: 'REACT',
+           image: "https://cdn.dribbble.com/users/6569/screenshots/14896756/media/83dbc710f449983d91745f4a680fc26a.png",
+           link1: 'https://www.github.com/experiencei/Slackclone',
+           link2: 'https://slackclone.web.app/',
+           title: 'Slack Clone',
+           text: '(Not fully Responsive on Mobile).using Redux react-hook-form material ui'
+       },
+        {id: 62,
+           category: 'REACT',
+           image: "https://cdn.dribbble.com/users/411475/screenshots/13953200/media/d44814135fc1ecc468614337e71ab14d.jpg?compress=1&resize=800x600",
+           link1: 'https://www.github.com/experiencei/SnapchatClone',
+           link2: 'https://snapchatclone-3aeaf.web.app/',
+           title: 'Snapchat Clone',
+           text: 'using Redux, firebase storage , database ,Material ui , camera funtionality. (React-Webcam)'
+       },
+        ]
+    } ,
+   
+    NEXTJS : {
+      NEXTJS : [
+       {id: 55,
+           category: 'NEXT',
+           image: "https://cdn.dribbble.com/users/2886970/screenshots/15408794/media/9a730ead4b84cb50cfb4a332f7d1a519.png?compress=1&resize=1200x900",
+           link1: 'https://www.github.com/experiencei/whatsapp',
+           link2: 'https://whatsapp-evwdcuxyb-experiencei.vercel.app/',
+           title: 'Whatsapp Clone',
+           text: ' using firebase , Next Js for whatsapp real time chatting With TimeAgo (Not Mobile Responsive)'
+       },
+       {id: 63,
+           category: 'NEXT',
+           image: "https://cdn.dribbble.com/users/411475/screenshots/14278604/media/7d3be05acd757afe4c6a43d0701637e4.jpg",
+           link1: 'https://www.github.com/experiencei/FacebookClone',
+           link2: 'https://facebook-clone-orpin-five.vercel.app/',
+           title: 'Facebook Clone',
+           text: 'using Next Js, firebase storage ,Tailwind CSS, database ,Material ui , camera funtionality'
+       },
+        {id: 64,
+           category: 'NEXT',
+           image: "https://cdn.dribbble.com/users/31078/screenshots/15775968/media/9032d8130b91eeb57c44ee3dfcbde233.png?compress=1&resize=800x600",
+           link1: 'https://www.github.com/experiencei/HuluClone',
+           link2: 'https://hulu-clone-seven-kappa.vercel.app/',
+           title: 'Hulu Clone',
+           text: 'using Next Js, SSA & TMDB Api '
+       },
+        {id: 65,
+           category: 'NEXT',
+           image: "https://cdn.dribbble.com/users/129991/screenshots/9069970/media/7f5f6acffa9243b4ac51e1074c1ce5d4.png",
+           link1: 'https://www.github.com/experiencei/GoogleClone',
+           link2: 'https://google-experience.vercel.app/',
+           title: 'Google Clone',
+           text: 'using Next Js, SSA & Google Api '
+       },
+        {id: 66,
+           category: 'NEXT',
+           image: "https://cdn.dribbble.com/users/5461590/screenshots/15800164/media/7352c98ae94aac294437fb9705771eb1.png?compress=1&resize=1200x900",
+           link1: 'https://www.github.com/experiencei/GoogleDocs',
+           link2: 'https://google-experience.vercel.app/',
+           title: 'GoogleDocs Clone',
+           text: 'using Next Js, SSA & Draft.js(WYSIWYG) & Firebase Adapter. '
+       },
+        {id: 67,
+           category: 'NEXT',
+           image: "https://cdn.dribbble.com/users/2301877/screenshots/6799225/airbnb_dribble_1.jpg",
+           link1: 'https://www.github.com/experiencei/Airbnd',
+           link2: 'https://airbnb-beige.vercel.app/',
+           title: 'Airbnb Clone',
+           text: 'using Next Js, SSA & Heroicons'
+       },
+      ]
+    } , 
+    MERN : {
+        MERN :[
+           {id: 56,
+               category: 'MERN',
+               image: "https://cdn.dribbble.com/users/6508978/screenshots/15311297/media/0b2e857961a02480b6f61db6aaf350f5.png?compress=1&resize=1200x900",
+               link1: 'https://www.github.com/experiencei/TinderClone',
+               link2: 'https://certy-fa388.web.app/',
+               title: 'Tinder Clone',
+               text: 'cloning of Tinder with React, Node and mongoDB as database'
+           },
+        ]
+    } ,
     REACTNATIVE: {
         REACTNATIVE : [
            {id: 84,
