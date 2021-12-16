@@ -722,14 +722,6 @@ const portfolios = {
  } ,
  ECOMMERCE: {
      ECOMMERCE :[
-        {id: 45,
-            category: 'ECOMMERCE',
-            image: css1,
-            link1: 'https://www.github.com/experiencei/foodwebsite',
-            link2: 'https://nerdsproject6.netlify.app',
-            title: 'Food ordering website',
-            text: 'Online food Ordering website'
-        },
         {id: 46,
             category: 'ECOMMERCE',
             image: "https://cdn.dribbble.com/users/2253180/screenshots/16362806/media/a5a25fd03968f8deb4a802e377c6e491.jpg?compress=1&resize=1200x900",
@@ -737,6 +729,14 @@ const portfolios = {
             link2: 'https://crwn-live.herokuapp.com',
             title: 'Crown Clothing Eccomerce',
             text: 'Fully Function Ecommerce Webapp with Stripe Ingeration, GraphQl and Firebase and Styled Component.'
+        },
+        {id: 45,
+            category: 'ECOMMERCE',
+            image: css1,
+            link1: 'https://www.github.com/experiencei/foodwebsite',
+            link2: 'https://nerdsproject6.netlify.app',
+            title: 'Food ordering website',
+            text: 'Online food Ordering website'
         },
      ]
  } ,
