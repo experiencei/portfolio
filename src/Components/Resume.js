@@ -49,9 +49,9 @@ function Resume() {
                     />
                     <ResumeItem 
                         year={'2019 - Present'} 
-                        title={'Electrical Engineering Student'}
+                        title={''}
                         subTitle={'Obafemi Awolowo University, Ile-Ife'}
-                        text={'Studying Electrical Engineering, acquiring an underlying principle behind,Technological knowledge,Interpersonal skills, Organizational skills ,Complex problem-solving skills,Innovative thinking. '} 
+                        text={'Studying & acquiring an underlying principle behind,Technological knowledge,Interpersonal skills, Organizational skills ,Complex problem-solving skills,Innovative thinking. '} 
                     />
                     
                 </div>
