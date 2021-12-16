@@ -13,7 +13,7 @@ function ImageSection() {
             <div className="right-content">
                 <h4>I am <span>Experience IQ</span></h4>
                 <p className="paragraph">
-                Hello! My name is Ibrahim and I enjoy creating things that live on the internet. <br/> My interest in web development started back in 2015 when I decided to try know how game was built with java on andriod (prince of persia)! Perticularly. <br/>
+                Hello! My name is Ibrahim and I enjoy creating things that live on the internet. <br/> My interest in web development started back in 2015 when I decided to try know how game was built with java on andriod (prince of persia)! Particularly. <br/>
 
 Fast-forward to today, and I’ve had the privilege of Learning Deeply on Javascript and it Ecosystem .
 My main focus these days is building accessible, inclusive products and cross platform moibile application both (ios & android) for a variety of clients.
