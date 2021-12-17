@@ -38,8 +38,10 @@ function ContactPage() {
                             <label htmlFor="text-area">Enter your Message*</label>
                             <textarea name="textarea" id="textarea" cols="30" rows="10"></textarea>
                         </div>
-                        <div className="form-field f-button">
+                        <div className="form-field f-button"> 
+                        <a href="mailto:ayelojahighbee01@gmail.com">
                             <PrimaryButton title={'Send Email'} />
+                         </a>
                         </div>
                     </form>
                 </div>
