@@ -136,14 +136,6 @@ const portfolios = {
    
     NEXTJS : {
       NEXTJS : [
-       {id: 55,
-           category: 'NEXT',
-           image: "https://cdn.dribbble.com/users/2886970/screenshots/15408794/media/9a730ead4b84cb50cfb4a332f7d1a519.png?compress=1&resize=1200x900",
-           link1: 'https://www.github.com/experiencei/whatsapp',
-           link2: 'https://whatsapp-evwdcuxyb-experiencei.vercel.app/',
-           title: 'Whatsapp Clone',
-           text: ' using firebase , Next Js for whatsapp real time chatting With TimeAgo (Not Mobile Responsive)'
-       },
         {id: 64,
            category: 'NEXT',
            image: "https://cdn.dribbble.com/users/31078/screenshots/15775968/media/9032d8130b91eeb57c44ee3dfcbde233.png?compress=1&resize=800x600",
@@ -168,6 +160,14 @@ const portfolios = {
            title: 'Airbnb Clone',
            text: 'using Next Js, SSA & Heroicons'
        },
+       {id: 55,
+        category: 'NEXT',
+        image: "https://cdn.dribbble.com/users/2886970/screenshots/15408794/media/9a730ead4b84cb50cfb4a332f7d1a519.png?compress=1&resize=1200x900",
+        link1: 'https://www.github.com/experiencei/whatsapp',
+        link2: 'https://whatsapp-evwdcuxyb-experiencei.vercel.app/',
+        title: 'Whatsapp Clone',
+        text: ' using firebase , Next Js for whatsapp real time chatting With TimeAgo (Not Mobile Responsive)'
+    },
       ]
     } , 
     MERN : {
