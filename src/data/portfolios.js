@@ -83,14 +83,6 @@ const portfolios = {
               title: 'Monster Rolodex App',
               text: 'Using Api to get Monster data and Filtering through them by Search. & Styled Component.'
           },
-           {id: 50,
-              category: 'REACT',
-              image: "https://cdn.dribbble.com/users/946315/screenshots/15007668/media/ff43c790553fb21e76e860b9f798ff62.png?compress=1&resize=1200x900",
-              link1: 'https://www.github.com/experiencei/AmazonClone',
-              link2: 'https://db-54246.web.app',
-              title: 'Amazon Clone',
-              text: 'Fully Function of Amazon with Redux , Firebsae , Stripe Integration for Payment'
-          },
            {id: 53,
               category: 'REACT',
               image: "https://cdn.dribbble.com/users/3506230/screenshots/16626652/media/2d756a0f3075734a3e35c8f1204f9bed.png?compress=1&resize=1200x900",
@@ -123,6 +115,14 @@ const portfolios = {
            title: 'Gmail Clone',
            text: 'using Redux react-hook-form material ui'
        },
+       {id: 50,
+        category: 'REACT',
+        image: "https://cdn.dribbble.com/users/946315/screenshots/15007668/media/ff43c790553fb21e76e860b9f798ff62.png?compress=1&resize=1200x900",
+        link1: 'https://www.github.com/experiencei/AmazonClone',
+        link2: 'https://db-54246.web.app',
+        title: 'Amazon Clone',
+        text: 'Fully Function of Amazon with Redux , Firebsae , Stripe Integration for Payment'
+    },
         {id: 62,
            category: 'REACT',
            image: "https://cdn.dribbble.com/users/411475/screenshots/13953200/media/d44814135fc1ecc468614337e71ab14d.jpg?compress=1&resize=800x600",
