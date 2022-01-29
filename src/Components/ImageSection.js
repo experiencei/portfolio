@@ -1,6 +1,6 @@
 import React from 'react'
 import styled from 'styled-components';
-import resume from '../img/Snapchat-1783434777.jpg';
+import resume from '../me/Snapchat-300565125.jpg';
 // src\me\Snapchat-116333502.jpg
 // import PrimaryButton from './PrimaryButton';
 
